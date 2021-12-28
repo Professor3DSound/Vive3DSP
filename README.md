@@ -12,7 +12,7 @@
 
 ## Download Link
 [Download VIVE 3DSP Audio SDK
-](https://developer.vive.com/resources/knowledgebase/download-vive-3dsp-audio-sdk/)
+](https://developer.vive.com/resources/vive-sense/3dsp-audio-sdk/download/latest/)
 
 ## Forum
 [Vive Audio SDKs
