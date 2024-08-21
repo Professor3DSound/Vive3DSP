@@ -1,18 +1,18 @@
-# VIVE 3DSP Audio SDK Resources
+![image](https://github.com/user-attachments/assets/045c4f7a-239c-471d-b036-8df0aab69430)# VIVE 3DSP Audio SDK Resources
 
 ## Introduction
-[Meet the 3DSP SDK](https://forum.viveport.com/blogs/entry/213-meet-the-vive-3dsp-sdk/)
+[Meet the 3DSP SDK](https://developer.vive.com/resources/tools/3dsp-audio-sdk/overview/)
 
 ## Official Website
 [VIVE 3DSP Audio SDK Official Page
-](https://developer.vive.com/resources/knowledgebase/about-vive-pro-sdks/)
+](https://developer.vive.com/resources/tools/3dsp-audio-sdk/)
 
 ## Online Document
 [VIVE 3DSP Audio SDK Online Document](https://hub.vive.com/storage/3dsp/)
 
 ## Download Link
 [Download VIVE 3DSP Audio SDK
-](https://developer.vive.com/resources/vive-sense/3dsp-audio-sdk/download/latest/)
+](https://developer.vive.com/resources/tools/3dsp-audio-sdk/download/latest/)
 
 ## Forum
 [Vive Audio SDKs
