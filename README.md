@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/045c4f7a-239c-471d-b036-8df0aab69430)# VIVE 3DSP Audio SDK Resources
-
 ## Introduction
 [Meet the 3DSP SDK](https://developer.vive.com/resources/tools/3dsp-audio-sdk/overview/)
 
