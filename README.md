@@ -1,3 +1,5 @@
+VIVE 3DSP Audio SDK Resources
+
 ## Introduction
 [Meet the 3DSP SDK](https://developer.vive.com/resources/tools/3dsp-audio-sdk/overview/)
 
